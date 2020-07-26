@@ -1,0 +1,11 @@
+Business Problem:
+     The Business problem framed for this task to identify a best location of setting up a "Indian Restaurant" in Tornoto by an entrepreneur. 
+     This problem could be solved by segmentation and clustering of suitable neighbourhood locations in Tornoto and performing K means clustering to find out the best spots.
+     
+     
+Data Required for Analysis:
+1. Neighbourhood dataset of Tornoto city   (Could be obtained by Scraping the Wikepdia using BeautifulSoup)
+2. Latitude and Longitude values of neighbourhoods  (Using Geocode Package)
+3. Data associated with Indian Restaurant (Making Foursquare calls)
+
+
